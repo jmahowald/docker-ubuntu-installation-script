@@ -7,3 +7,5 @@ To test, run `vagrant up` to start a VM.  you can run vagrant provision to rerun
 
 For now it only handles ubuntu
 
+NOTE this does not currently work on ubuntu 12.10
+
